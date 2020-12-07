@@ -17,3 +17,7 @@ For each bug you fix, add documentation to this README about how you fixed it (i
 - `getByAbbreviation('ak')`
 - `searchByName('dakota')`
   - Why does this only return results for North Dakota (and not South Dakota)?
+
+My Fixes
+-"db" was not used for tampa
+- wrong function for Houston
